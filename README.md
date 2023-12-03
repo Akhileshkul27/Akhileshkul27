@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Akhilesh Vipin Kulkarni
-
+ ### Hi there 👋, I'm Akhilesh Vipin Kulkarni
 
 - 🔭 I’m currently working on ROS, ROS2
 - 🌱 I’m currently learning App Development, Robot Operating System, ROS2
